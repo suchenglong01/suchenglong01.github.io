@@ -162,6 +162,12 @@ ul, ol {
 .intro .intro-body .intro-text {
   font-size: 18px;
 }
+.user{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  opacity: 100%;
+}
 
 @media(min-width:768px) {
   .intro {
