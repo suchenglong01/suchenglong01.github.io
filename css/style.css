@@ -252,6 +252,9 @@ ul, ol {
 .section-title.center {
   padding: 30px 0 0 0;
 }
+.title-color{
+  color: #0c151c;
+}
 .section-title h2, .section-title.center h2 {
   font-weight: 400;
   margin-bottom: 30px;
